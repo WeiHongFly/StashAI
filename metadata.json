@@ -1,0 +1,8 @@
+{
+  "name": "StashAI - Home Inventory",
+  "description": "An AI-powered home inventory assistant helping you track item locations and expiry dates.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
